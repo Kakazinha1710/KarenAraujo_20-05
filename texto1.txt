@@ -1,2 +1,2 @@
 Aula de linguagem de programação
-Professor Robson
+Professor Robson que leciona as aulas de programação em R 
